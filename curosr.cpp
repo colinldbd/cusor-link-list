@@ -1,3 +1,6 @@
+//the implement of a linklist stored by cursor
+//this structure can avoid the error in some language that don't support pointer
+//cursor is a replacement of the pointer
 #include <iostream>
 
 #define CursorSpace 100
